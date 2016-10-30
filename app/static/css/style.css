@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+}
+.intro {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.intro .story-img {
+	width: 50%;
+	height: 50%;
+}
